@@ -45,7 +45,7 @@
         <ul>
             <li>Email: <a href="mailto:aworkofkc@gmail.com">aworkofkc@gmail.com</a></li>
             <li>GitHub: <a href="https://github.com/AworkofKC">AworkofKC</a></li>
-            <li>Instagram: <a href="https://instagram.com/aworkofkc
+            <li>Instagram: <a href="https://instagram.com/aworkofkc">AworkofKC</a></li>
         </ul>
     </section>
 
