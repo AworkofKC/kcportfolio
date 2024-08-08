@@ -26,7 +26,7 @@
     <section id="portfolio">
         <h2>Portfolio</h2>
         <div class="portfolio-item">
-            <h3>Logo's and Buisness Cards</h3>
+            <h3>Logo's and Business Cards</h3>
             <p>Description of project 1.</p>
         </div>
         <div class="portfolio-item">
